@@ -1,4 +1,4 @@
-module cuelang.org/go
+module github.com/nacx/cue
 
 go 1.18
 
